@@ -1,4 +1,4 @@
-# monsters-rolodex
+# Monster Rolodex
 
 --- 
 
